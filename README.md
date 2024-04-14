@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/visihvo/ohtuvarasto/actions/workflows/WORKFLOW-FILE/badge.svg
+https://github.com/visihvo/ohtuvarasto/actions/workflows/CI/badge.svg
