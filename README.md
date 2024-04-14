@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/mluukkai/ohtuvarasto/workflows/CI/badge.svg
+https://github.com/visihvo/ohtuvarasto/workflows/CI/badge.svg
