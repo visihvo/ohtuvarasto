@@ -26,9 +26,7 @@ jobs:
         run: poetry run coverage xml
       - name: Coveragge report to Codecov
         uses: codecov/codecov-action@v3
-      - name: Install pylint
-        run: poetry run poetry add pylint
-      - name: Run pylint
+      - name: Lint
         run: poetry run pylint src
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
